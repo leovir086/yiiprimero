@@ -7,7 +7,7 @@ and open the template in the editor.
     Created on : 19-may-2014, 15:00:33
     Author     : Leonardo
 */
-.nav {float:left; width:900px; border:none; background:rgb(220,220,220) url(../image/bg_head_bottom_nav.jpg) no-repeat; color:rgb(75,75,75); font-size:130%;} /*Color navigation bar normal mode*/
+.nav {float:left; width:900px; border:none; background:rgb(45,45,45) /*url(../image/bg_head_bottom_nav.jpg) no-repeat*/; color:rgb(75,75,75); font-size:130%;} /*Color navigation bar normal mode*/
 .nav ul {list-style-type:none;}
 .nav ul li {float:left; position:relative; z-index:auto !important /*Non-IE6*/; z-index:1000 /*IE6*/; border-right:solid 1px rgb(175,175,175);}
 .nav ul li a {float:none !important /*Non-IE6*/; float:left /*IE-6*/; display:block; height:3.1em; line-height:3.1em; padding:0 16px 0 16px; text-decoration:none; font-weight:bold; color: rgb(100,100,100);}

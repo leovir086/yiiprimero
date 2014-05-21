@@ -41,7 +41,7 @@
             </div>
         </div-->
         
-        <div class="row">
+        <div class="row columna">
             <div class="col-xs-12">
                 <div class="nav">
                     <?php $this->widget('zii.widgets.CMenu',array(
